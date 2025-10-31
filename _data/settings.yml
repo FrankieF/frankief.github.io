@@ -11,6 +11,7 @@ menu:
 # Games Section
 
 games:
+- {name:'Gundam Seed Battle Destiny Remastered', url: 'gundam_seed'}
 - {name:'C.O.D.E.R.E.D.', url: 'codered'}
 - {name:'Chaos Battle Chess', url: 'cbc'}
 - {name:'Symmetry', url: 'Symmetry'}
@@ -45,7 +46,8 @@ A short outline of some problems in Donkey Kong Tropical Freeze for the Wii U an
 #-------------------------------
 # Code Section
 
-codes:
+codes: 
+- {name: 'Zigboy', url: 'https://github.com/FrankieF/zigboy', description: 'A gameboy emulator written in zig using sfml. I made it to learn zig programming.'}
 - {name: 'SNES STYLE RPG GAME', url: 'https://github.com/FrankieF/RPG_Game', description: 'I worked with some friends on a prototype for a SNES style rpg game. I was programmed everything in the prototype including AI, game systems, combat, level/inventory systems.'}
 - {name: 'JUKEBOX PARADISE', url: 'https://github.com/FrankieF/JukeboxParadise', description: 'Jukebox Paradise is a 2-4 player written in C# using Unity. I was responsible for coding the game systems (item collection and scoring), players and UI. '}
 - {name: 'ARENA TALE', url: 'https://github.com/FrankieF/ArenaTale', description: 'Arena Tale is a game I did free lance work on for around 6 months. The game was never released and this is a collection of some of the code I wrote. Some of these classes I did not write intially but heavily modified. I wrote all of the AT_ classes, state machines, AI and system code from scratch.'}
