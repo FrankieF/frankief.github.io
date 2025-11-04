@@ -11,6 +11,6 @@ I was a gameplay and ai programmer, focusing on the battleships for ai and playe
 
 [Steam Link](https://store.steampowered.com/app/1857740/MOBILE_SUIT_GUNDAM_SEED_BATTLE_DESTINY_REMASTERED/)
 
-{% include image.html url="(https://store-jp.nintendo.com/item/software/D70010000081176" image="gundam_seed/gundam.jpg" %}
-{% include image.html url="(https://store-jp.nintendo.com/item/software/D70010000081176" image="gundam_seed/gundam2.jpg" %}
-{% include image.html url="(https://store-jp.nintendo.com/item/software/D70010000081176" image="gundam_seed/gundam3.jpg" %}
+{% include image.html url="https://store-jp.nintendo.com/item/software/D70010000081176" image="gundam_seed/gundam.jpg" %}
+{% include image.html url="https://store-jp.nintendo.com/item/software/D70010000081176" image="gundam_seed/gundam2.jpg" %}
+{% include image.html url="https://store-jp.nintendo.com/item/software/D70010000081176" image="gundam_seed/gundam3.jpg" %}
