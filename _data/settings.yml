@@ -12,6 +12,7 @@ menu:
 
 games:
 - {name:'Gundam Seed Battle Destiny Remastered', url: 'gundam_seed'}
+- {name:'Yami', url: 'yami'}
 - {name:'C.O.D.E.R.E.D.', url: 'codered'}
 - {name:'Chaos Battle Chess', url: 'cbc'}
 - {name:'Symmetry', url: 'Symmetry'}
