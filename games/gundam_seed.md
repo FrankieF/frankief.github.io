@@ -3,7 +3,7 @@ layout: post
 title: '機動戦士ガンダムSEED BATTLE DESTINY REMASTERED'
 ---
 
-I was a gameplay and ai programmer, focusing on the battleships for ai and player abilities. I also helped out with the ui when needed and was responsible for the entire minimap implementation.
+I was a gameplay and ai programmer, focusing on the battleships for ai and player abilities. I also helped out with the ui when needed and was responsible for the entire minimap implementation, as well as built custom tools for designers in UE4.
 
 [Trailer](https://www.youtube.com/watch?v=WD8ttyjRqbU)
 
