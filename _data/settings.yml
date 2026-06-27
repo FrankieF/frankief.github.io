@@ -11,6 +11,7 @@ menu:
 # Games Section
 
 games:
+- {name:'World Eternal Online', url: 'weo'}
 - {name:'Gundam Seed Battle Destiny Remastered', url: 'gundam_seed'}
 - {name:'Yami', url: 'yami'}
 - {name:'C.O.D.E.R.E.D.', url: 'codered'}

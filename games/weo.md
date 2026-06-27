@@ -1,6 +1,6 @@
 ---
 layout: post
-title: World Eternal Online'
+title: 'World Eternal Online'
 ---
 
 I was a client programmer mainly doing UI and gameplay.
